@@ -1,8 +1,8 @@
-# EduMind AI - Premium Study Assistant 🎓✨
+# StudyAI - Premium Study Assistant 🎓✨
 
-EduMind AI is a professional, full-stack AI-powered study platform designed to help students and researchers master their documents. Upload a PDF, and instantly generate summaries, interactive quizzes, flashcards, and chat with your material using Google's Gemini Pro.
+StudyAI is a professional, full-stack AI-powered study platform designed to help students and researchers master their documents. Upload a PDF, and instantly generate summaries, interactive quizzes, flashcards, and chat with your material using Google's Gemini Pro.
 
-![EduMind AI Banner](https://img.shields.io/badge/AI-Gemini--Pro-blueviolet?style=for-the-badge&logo=google-gemini)
+![StudyAI Banner](https://img.shields.io/badge/AI-Gemini--Pro-blueviolet?style=for-the-badge&logo=google-gemini)
 ![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react)
 ![Backend](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi)
 
@@ -53,7 +53,7 @@ npm run dev
 ```
 
 ## 📐 Design Philosophy
-EduMind AI focuses on a **Premium Dark Aesthetic**, utilizing curated gradients, subtle micro-animations, and a highly responsive layout to ensure that studying feels like a high-end experience on both desktop and mobile.
+StudyAI focuses on a **Premium Dark Aesthetic**, utilizing curated gradients, subtle micro-animations, and a highly responsive layout to ensure that studying feels like a high-end experience on both desktop and mobile.
 
 ---
 Built with ❤️ for better learning.
