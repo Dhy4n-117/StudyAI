@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+motor
+pymongo
+bcrypt==4.0.1
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+pydantic
+pydantic-settings
+google-generativeai
+PyMuPDF
+email-validator
